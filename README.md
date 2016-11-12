@@ -1,2 +1,3 @@
 # hello-world
-testing
+Hello, 
+I am hoping to start coding more and learning about github.
